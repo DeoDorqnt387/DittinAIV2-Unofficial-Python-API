@@ -1,5 +1,5 @@
 ### An Unofficial api for DittinAIV2
-
+![](https://github.com/DeoDorqnt387/DittinAIV2-Unofficial-Python-API/blob/main/images/img1.png)
 ## Example Usage
 ```python
 from DittinAIV2.dittin import DittinAI
