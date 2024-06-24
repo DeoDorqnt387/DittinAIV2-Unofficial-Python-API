@@ -1,4 +1,4 @@
-from DittinAIV2.dittin import DittinAI
+from ..DittinAIV2.dittin import DittinAI
 
 while True:
     msg = input("You: ")
