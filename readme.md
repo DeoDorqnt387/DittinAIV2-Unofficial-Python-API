@@ -2,7 +2,7 @@
 ![](https://github.com/DeoDorqnt387/DittinAIV2-Unofficial-Python-API/blob/main/images/img1.png)
 ## Example Usage
 ```python
-from DittinAIV2.dittin import DittinAI
+from ..DittinAIV2.dittin import DittinAI
 
 while True:
     msg = input("You: ")
